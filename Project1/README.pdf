@@ -1,0 +1,2046 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 8 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/CSCI-442-Mines/student-env)
+>> /Border [ 0 0 0 ] /Rect [ 444.9536 421.0236 465.3463 433.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 6 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kernel.org/doc/html/v5.8/process/coding-style.html)
+>> /Border [ 0 0 0 ] /Rect [ 161.1736 358.0236 272.3336 370.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 11 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Outlines 16 0 R /PageLabels 36 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog
+>>
+endobj
+15 0 obj
+<<
+/Author () /CreationDate (D:20230823031312+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230823031312+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (CSCI-442: Project 1 - Warm Up) /Trapped /False
+>>
+endobj
+16 0 obj
+<<
+/Count 15 /First 17 0 R /Last 29 0 R /Type /Outlines
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /XYZ 57.02362 547.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (Introduction)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 7 0 R /XYZ 57.02362 472.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Deliverable 1)
+>>
+endobj
+19 0 obj
+<<
+/Count 9 /Dest [ 7 0 R /XYZ 57.02362 238.6236 0 ] /First 20 0 R /Last 28 0 R /Next 29 0 R /Parent 16 0 R 
+  /Prev 18 0 R /Title (Deliverable 2)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 9 0 R /XYZ 57.02362 468.6236 0 ] /Next 21 0 R /Parent 19 0 R /Title (Assumptions)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 9 0 R /XYZ 57.02362 372.6236 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Errors You Need to Handle)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 10 0 R /XYZ 57.02362 729.0236 0 ] /Next 23 0 R /Parent 19 0 R /Prev 21 0 R /Title (Useful Routines)
+>>
+endobj
+23 0 obj
+<<
+/Count 3 /Dest [ 10 0 R /XYZ 57.02362 521.8236 0 ] /First 24 0 R /Last 26 0 R /Next 27 0 R /Parent 19 0 R 
+  /Prev 22 0 R /Title (Tips)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 10 0 R /XYZ 57.02362 491.8236 0 ] /Next 25 0 R /Parent 23 0 R /Title (1: Start small, and get things working incrementally)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 10 0 R /XYZ 57.02362 212.8236 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (2: Testing is critical)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 12 0 R /XYZ 57.02362 526.0236 0 ] /Parent 23 0 R /Prev 25 0 R /Title (3: Keep old versions around)
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 12 0 R /XYZ 57.02362 439.0236 0 ] /Next 28 0 R /Parent 19 0 R /Prev 23 0 R /Title (General Requirements)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 12 0 R /XYZ 57.02362 241.0236 0 ] /Parent 19 0 R /Prev 27 0 R /Title (Collaboration Policy)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 12 0 R /XYZ 57.02362 145.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Submitting Your Project)
+>>
+endobj
+30 0 obj
+<<
+/Count 5 /Kids [ 7 0 R 9 0 R 10 0 R 12 0 R 13 0 R ] /Type /Pages
+>>
+endobj
+31 0 obj
+<<
+/Length 5268
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 110.9042 0 Td (CSCI-442: Project 1 - Warm Up) Tj T* -110.9042 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 50.81937 0 Td (Due:) Tj T* -50.81937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Please see the assignment on Canvas for dates.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 678.0236 cm
+Q
+q
+1 0 0 1 57.02362 565.0236 cm
+q
+1 .972549 .862745 rg
+n 0 113 481.2283 -113 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 87 Tm  T* ET
+q
+1 0 0 1 16 82 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (Important) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 70 cm
+Q
+q
+1 0 0 1 16 70 cm
+Q
+q
+1 0 0 1 16 46 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm -0.022975 Tw 12 TL /F1 10 Tf 0 0 0 rg (You'll want to read this ) Tj /F3 10 Tf (entire document) Tj /F1 10 Tf ( before beginning the project. Please ask any questions) Tj T* 0 Tw (you have on Piazza, but only if this README does not answer your question.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 16 40 cm
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .134417 Tw (Finally, be sure to start early. If you wait until a few days before the due date, you are unlikely to) Tj T* 0 Tw (finish in time.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 16 16 cm
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 113 m 481.2283 113 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 113 l S
+n 481.2283 0 m 481.2283 113 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 559.0236 cm
+Q
+q
+1 0 0 1 57.02362 526.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 484.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .324925 Tw (This project is a simple warm-up to get you used to how this whole project thing will go. It also serves to get) Tj T* 0 Tw 1.138797 Tw (you into the mindset of a C programmer, something you will become quite familiar with over the next few) Tj T* 0 Tw (months. Good luck!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 451.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Deliverable 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 397.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 2.654882 Tw 12 TL /F1 10 Tf 0 0 0 rg (Your first task is to familiarize yourself with the development environment. To provide a standardized) Tj T* 0 Tw .03189 Tw (development environment, you will be using a Docker container. Follow the instructions ) Tj 0 .4 .6 rg (here) Tj 0 0 0 rg ( to setup Docker) Tj T* 0 Tw 2.806962 Tw (and your environment. We are using Docker so your code can run in an environment similar to the) Tj T* 0 Tw (autograder regardless of what your native platform is.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 367.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.313022 Tw (If you have successfully completed the above linked tutorial, you should have access to this starter code) Tj T* 0 Tw (inside container.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 349.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run the command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 315.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (make ) Tj (&) Tj (&) Tj ( ./reverse) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 283.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .58402 Tw (Take a screenshot of your terminal, including the result of the above command. This is your submission for) Tj T* 0 Tw (deliverable 1. It should say:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 250.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (TODO: write a main function) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 217.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Deliverable 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 199.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will write a simple program called ) Tj /F4 10 Tf (reverse) Tj /F1 10 Tf (. This program will be invoked in one of the following ways:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 154.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 36 re B*
+Q
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F4 10 Tf 0 0 0 rg (prompt) Tj (>) Tj ( ./reverse input_file) Tj T* (prompt) Tj (>) Tj ( ./reverse input_file output_file) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 134.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (An input file might look like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 77.22362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F4 10 Tf 12 TL (hello) Tj T* (this) Tj T* (is) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+32 0 obj
+<<
+/Length 8226
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL  T* (a file) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 683.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .39135 Tw (The goal of the reversing program is to read in the data from the specified input file and reverse it; thus, the) Tj T* 0 Tw .712256 Tw (lines should be printed out in the reverse order of the input stream. Thus, for the aforementioned example,) Tj T* 0 Tw (the output should be:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 602.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 72 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F4 10 Tf 12 TL (a file) Tj T*  T* (is) Tj T* (this) Tj T* (hello) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 570.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .674908 Tw (The different ways to invoke the file \(as above\) all correspond to slightly different ways of using this simple) Tj T* 0 Tw (new Unix utility.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 564.6236 cm
+Q
+q
+1 0 0 1 57.02362 564.6236 cm
+Q
+q
+1 0 0 1 57.02362 540.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .499223 Tw (When invoked with two command-line arguments, the program should read from the input file the user) Tj T* 0 Tw (supplies and write the reversed version of said file to the output file the user supplies.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 534.6236 cm
+Q
+q
+1 0 0 1 57.02362 498.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .258022 Tw 12 TL /F1 10 Tf 0 0 0 rg (When invoked with just one command-line argument, the user supplies the input file, but the file should) Tj T* 0 Tw 1.619353 Tw (be printed to the screen. In Unix-based systems, printing to the screen is the same as writing to a) Tj T* 0 Tw (special file known as ) Tj /F3 10 Tf (standard output) Tj /F1 10 Tf (, or ) Tj /F4 10 Tf (stdout) Tj /F1 10 Tf ( for short.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 498.6236 cm
+Q
+q
+1 0 0 1 57.02362 480.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sounds easy, right? It should. But there are a few details...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 438.6236 cm
+Q
+q
+1 0 0 1 57.02362 438.6236 cm
+Q
+q
+1 0 0 1 57.02362 414.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm -0.04535 Tw 12 TL /F3 10 Tf 0 0 0 rg (String length) Tj /F1 10 Tf (: You may NOT assume ) Tj /F5 10 Tf (anything) Tj /F1 10 Tf ( about how long a line can be. I.e., it may be VERY long,) Tj T* 0 Tw (or quite short.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 408.6236 cm
+Q
+q
+1 0 0 1 57.02362 384.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .234917 Tw 12 TL /F3 10 Tf 0 0 0 rg (File length) Tj /F1 10 Tf (: You may NOT assume ) Tj /F5 10 Tf (anything) Tj /F1 10 Tf ( about how large a file is. Thus, you may have to read in a) Tj T* 0 Tw (very large input file...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 384.6236 cm
+Q
+q
+1 0 0 1 57.02362 354.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Errors You Need to Handle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 324.6236 cm
+q
+BT 1 0 0 1 0 14 Tm .925785 Tw 12 TL /F1 10 Tf 0 0 0 rg (On any of the errors below, you should print the error message to ) Tj /F4 10 Tf (stderr) Tj /F1 10 Tf ( \(standard error\), ) Tj /F3 10 Tf (NOT) Tj /F1 10 Tf ( ) Tj /F4 10 Tf (stdout) Tj /F1 10 Tf  T* 0 Tw (\(standard output\). You can accomplish this using ) Tj /F4 10 Tf (fprintf\(\)) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 318.6236 cm
+Q
+q
+1 0 0 1 57.02362 318.6236 cm
+Q
+q
+1 0 0 1 57.02362 294.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 13.8732 Tw 12 TL /F3 10 Tf 0 0 0 rg (Input file is the same as the output file) Tj /F1 10 Tf (: Print the error message) Tj T* 0 Tw /F4 10 Tf (error:) Tj ( ) Tj (input) Tj ( ) Tj (and) Tj ( ) Tj (output) Tj ( ) Tj (file) Tj ( ) Tj (must) Tj ( ) Tj (differ) Tj /F1 10 Tf ( and exit with return code 1.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 288.6236 cm
+Q
+q
+1 0 0 1 57.02362 252.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm -0.045083 Tw 12 TL /F3 10 Tf 0 0 0 rg (Invalid files) Tj /F1 10 Tf (: If the user specifies an input or output file, and for some reason, when you try to open said) Tj T* 0 Tw .233719 Tw (file \(e.g., ) Tj /F4 10 Tf (input.txt) Tj /F1 10 Tf (\) and fail, print the error message ) Tj /F4 10 Tf (error:) Tj ( ) Tj (cannot) Tj ( ) Tj (open) Tj ( ) Tj (file) Tj ( ) Tj ('input.txt') Tj /F1 10 Tf  T* 0 Tw (\(or whatever the file is named\) and exit with return code 1.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 246.6236 cm
+Q
+q
+1 0 0 1 57.02362 192.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+BT 1 0 0 1 0 14 Tm .178726 Tw 12 TL /F3 10 Tf 0 0 0 rg (System call fails) Tj /F1 10 Tf (: All system calls can fail. For grading purposes, you can print any error message, but) Tj T* 0 Tw (you must exit with a return code 1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.613453 Tw 12 TL /F1 10 Tf 0 0 0 rg (Ex: If ) Tj /F4 10 Tf (malloc\(\)) Tj /F1 10 Tf ( fails, you can print any error message like ) Tj /F4 10 Tf (error:) Tj ( ) Tj (malloc) Tj ( ) Tj (failed) Tj /F1 10 Tf ( \(or) Tj T* 0 Tw (whatever the system call is named\) and exit with return code 1.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 186.6236 cm
+Q
+q
+1 0 0 1 57.02362 150.6236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.449882 Tw 12 TL /F3 10 Tf 0 0 0 rg (Incorrect number of arguments passed to program) Tj /F1 10 Tf (: Should too many, or too few, arguments be) Tj T* 0 Tw .479104 Tw (provided to ) Tj /F4 10 Tf (reverse) Tj /F1 10 Tf (, then print the error message ) Tj /F4 10 Tf (usage:) Tj ( ) Tj (reverse) Tj ( ) Tj (<) Tj (input) Tj (>) Tj ( ) Tj (<) Tj (output) Tj (>) Tj /F1 10 Tf ( and exit) Tj T* 0 Tw (with return code 1.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 144.6236 cm
+Q
+q
+1 0 0 1 57.02362 84.62362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+BT 1 0 0 1 0 14 Tm 1.833223 Tw 12 TL /F3 10 Tf 0 0 0 rg (Memory Safety) Tj /F1 10 Tf (: If your program is susceptible to buffer-overflow based on certain inputs, it is not) Tj T* 0 Tw (memory safe.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.169873 Tw 12 TL /F1 10 Tf 0 0 0 rg (You will lose points for using these memory unsafe functions: ) Tj /F4 10 Tf (strcat) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (strcpy) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (strcmp) Tj /F1 10 Tf (, or) Tj T* 0 Tw /F4 10 Tf (sprintf) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+ 
+endstream
+endobj
+33 0 obj
+<<
+/Length 9195
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 11 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .339921 Tw 12 TL /F1 10 Tf 0 0 0 rg (Ex: If you try to use ) Tj /F4 10 Tf (getline\(\)) Tj /F1 10 Tf ( and there is no space for the line you are trying to grab, you can) Tj T* 0 Tw (print any useful message like ) Tj /F4 10 Tf (error:) Tj ( ) Tj (memory) Tj ( ) Tj (safety) Tj /F1 10 Tf (, but you must exit with return code 1.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 741.0236 cm
+Q
+q
+1 0 0 1 57.02362 711.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Useful Routines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You may find the following manuals useful:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 687.0236 cm
+Q
+q
+1 0 0 1 57.02362 687.0236 cm
+Q
+q
+1 0 0 1 57.02362 675.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (fopen\(3\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 669.0236 cm
+Q
+q
+1 0 0 1 57.02362 657.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (getline\(3\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 651.0236 cm
+Q
+q
+1 0 0 1 57.02362 639.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (fclose\(3\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 633.0236 cm
+Q
+q
+1 0 0 1 57.02362 621.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (malloc\(3\)) Tj /F1 10 Tf ( and ) Tj /F4 10 Tf (free\(3\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 615.0236 cm
+Q
+q
+1 0 0 1 57.02362 603.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (fprintf\(3\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 597.0236 cm
+Q
+q
+1 0 0 1 57.02362 585.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (exit\(3\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 585.0236 cm
+Q
+q
+1 0 0 1 57.02362 567.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can open these using the ) Tj /F4 10 Tf (man) Tj /F1 10 Tf ( command. For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 533.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (prompt) Tj (>) Tj ( man 3 fopen) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 503.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Tips) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 476.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf .133333 .133333 .133333 rg (1: Start small, and get things working incrementally) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 434.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .627198 Tw 12 TL /F1 10 Tf 0 0 0 rg (For example, first get a program that simply reads in the input file, one line at a time, and prints out what it) Tj T* 0 Tw .422686 Tw (reads in. Compile your code with the command ) Tj /F4 10 Tf (make) Tj /F1 10 Tf ( to test your work and check for memory safety. Then,) Tj T* 0 Tw (slowly add features and test them as you go.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 416.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here are our recommended steps:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 410.8236 cm
+Q
+q
+1 0 0 1 57.02362 410.8236 cm
+Q
+q
+1 0 0 1 57.02362 398.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (1.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm -0.021862 Tw 12 TL /F1 10 Tf 0 0 0 rg (First, write some code using ) Tj /F4 10 Tf (fopen\(\)) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (getline\(\)) Tj /F1 10 Tf (, and ) Tj /F4 10 Tf (fclose\(\)) Tj /F1 10 Tf ( to read an input file and print it out.) Tj T* 0 Tw ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 392.8236 cm
+Q
+q
+1 0 0 1 57.02362 278.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (2.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.033797 Tw (Design how you will store the lines to be easily reversed later. A proper data structure makes all the) Tj T* 0 Tw .621917 Tw (difference here. Think back to 262: would a map or set even be useful here? What about a stack or a) Tj T* 0 Tw (queue? How might you implement one?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 42 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .98213 Tw (Don't pass by this too quickly. "A week of coding can save you an hour of planning" as the) Tj T* 0 Tw (saying goes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .39389 Tw 12 TL /F1 10 Tf 0 0 0 rg (But also don't over-engineer this. No need to have a perfect circular array or balanced binary) Tj T* 0 Tw .068138 Tw (tree. A linked list might be perfect in this scenario: quick to implement, and can easily be used) Tj T* 0 Tw (to solve the problem at hand \() Tj /F5 10 Tf (hint hint) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 272.8236 cm
+Q
+q
+1 0 0 1 57.02362 260.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (3.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write the code to store each input line into your data structure, and make sure that works.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 254.8236 cm
+Q
+q
+1 0 0 1 57.02362 242.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (4.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use your data structure to print the lines in reverse order of the input file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 236.8236 cm
+Q
+q
+1 0 0 1 57.02362 224.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (5.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Handle error cases, and so forth...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 224.8236 cm
+Q
+q
+1 0 0 1 57.02362 197.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf .133333 .133333 .133333 rg (2: Testing is critical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 167.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .298561 Tw (A great programmer we once knew said you have to write five to ten lines of test code for every line of code) Tj T* 0 Tw (you produce; testing your code to make sure it works is crucial.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 161.8236 cm
+Q
+q
+1 0 0 1 57.02362 161.8236 cm
+Q
+q
+1 0 0 1 57.02362 149.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write tests to see if your code handles all the cases you think it should.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 143.8236 cm
+Q
+q
+1 0 0 1 57.02362 119.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.403797 Tw (Be as comprehensive as you can be. Of course, when grading your projects, we will be. Thus, it is) Tj T* 0 Tw (better if you find your bugs first, before we do.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 119.8236 cm
+Q
+q
+1 0 0 1 57.02362 101.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (We have provided some ) Tj /F5 10 Tf (basic) Tj /F1 10 Tf ( tests for you to check against, you can run them via:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 68.62362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 480.0283 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (./test-reverse.sh -v) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+34 0 obj
+<<
+/Length 8355
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 753.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (However, ) Tj /F3 10 Tf (YOU WILL NEED TO TEST YOUR CODE ON MORE THAN JUST THE PROVIDED TESTS) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 747.0236 cm
+Q
+q
+1 0 0 1 57.02362 747.0236 cm
+Q
+q
+1 0 0 1 57.02362 723.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.125785 Tw 12 TL /F1 10 Tf 0 0 0 rg (The provided tests are ) Tj /F5 10 Tf (not) Tj /F1 10 Tf ( comprehensive. All they do is check for basic error handling, and run the) Tj T* 0 Tw (provided example.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 717.0236 cm
+Q
+q
+1 0 0 1 57.02362 705.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We will have no sympathy for students who only use the provided tests and then receive a poor score.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 705.0236 cm
+Q
+q
+1 0 0 1 57.02362 693.0236 cm
+Q
+q
+1 0 0 1 57.02362 544.0236 cm
+q
+1 .972549 .862745 rg
+n 0 149 481.2283 -149 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 123 Tm  T* ET
+q
+1 0 0 1 16 118 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 70 cm
+q
+BT 1 0 0 1 0 26 Tm -0.027314 Tw 12 TL /F1 10 Tf 0 0 0 rg (We will be using ) Tj /F4 10 Tf (diff) Tj /F1 10 Tf ( to verify your program produces the correct output. This means you will ) Tj /F5 10 Tf (not) Tj /F1 10 Tf ( get) Tj T* 0 Tw .719353 Tw (partial credit on a within-test basis \(i.e., you will either pass, or fail, each individual test. There is no) Tj T* 0 Tw (in-between\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 38 Tm -0.10011 Tw 12 TL /F1 10 Tf 0 0 0 rg (This means if your program produces an even slightly incorrect output \(e.g., missing the last character) Tj T* 0 Tw .409353 Tw (of the last line, produces extraneous output, throws an error, etc.\), ) Tj /F3 10 Tf (you will get a 0 on that specific) Tj T* 0 Tw 1.625522 Tw (test) Tj /F1 10 Tf (. Take extra care with testing to ensure that a minor error doesn't propogate and cause your) Tj T* 0 Tw (program to fail all test cases.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 149 m 481.2283 149 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 149 l S
+n 481.2283 0 m 481.2283 149 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 538.0236 cm
+Q
+q
+1 0 0 1 57.02362 511.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf .133333 .133333 .133333 rg (3: Keep old versions around) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 481.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .812545 Tw (Keep copies of old versions of your program around, as you may introduce bugs and not be able to easily) Tj T* 0 Tw (undo them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 475.0236 cm
+Q
+q
+1 0 0 1 57.02362 475.0236 cm
+Q
+q
+1 0 0 1 57.02362 451.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.311575 Tw 12 TL /F1 10 Tf 0 0 0 rg (Use ) Tj /F3 10 Tf (git) Tj /F1 10 Tf ( for this. This project is already a Git repository, so take advantage of all the version control) Tj T* 0 Tw (features git provides!) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 451.0236 cm
+Q
+q
+1 0 0 1 57.02362 421.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (General Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 409.0236 cm
+Q
+q
+1 0 0 1 57.02362 409.0236 cm
+Q
+q
+1 0 0 1 57.02362 397.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your program should have a zero exit status if no errors are encountered.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 391.0236 cm
+Q
+q
+1 0 0 1 57.02362 379.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your project must be written in the C programming language, and execute on Isengard.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 373.0236 cm
+Q
+q
+1 0 0 1 57.02362 361.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You should follow ) Tj 0 .4 .6 rg (Linux Kernel coding style) Tj 0 0 0 rg (, a common style guide for open-source C projects.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 355.0236 cm
+Q
+q
+1 0 0 1 57.02362 343.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your project must not execute external programs or use network resources.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 337.0236 cm
+Q
+q
+1 0 0 1 57.02362 301.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .437686 Tw 12 TL /F1 10 Tf 0 0 0 rg (You should ) Tj /F4 10 Tf (free) Tj /F1 10 Tf ( any memory that you heap-allocate, and close any files that you open. If you do not,) Tj T* 0 Tw .180522 Tw (the flag ) Tj /F4 10 Tf (-fsanitize=address) Tj /F1 10 Tf ( will catch a memory leak which will be shown either in your console or) Tj T* 0 Tw (in the ) Tj 1 0 0 rg (*) Tj 0 0 0 rg (.err file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 295.0236 cm
+Q
+q
+1 0 0 1 57.02362 271.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .22886 Tw 12 TL /F1 10 Tf 0 0 0 rg (To compile your code, the grader should be able to ) Tj /F4 10 Tf (cd) Tj /F1 10 Tf ( into the root directory of your repository and run) Tj T* 0 Tw /F4 10 Tf (make) Tj /F1 10 Tf ( using the provided ) Tj /F4 10 Tf (Makefile) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 271.0236 cm
+Q
+q
+1 0 0 1 57.02362 253.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Your grade will be negatively impacted if you do not heed these requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 223.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Collaboration Policy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 205.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Please see the syllabus for the course plagarism policies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 187.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This is an ) Tj /F3 10 Tf (individual project) Tj /F1 10 Tf (. Plagarism cases will be punished harshly according to school policies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 157.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.310966 Tw (Please do keep any Git repos private, even after you finish this course. This will keep the project fun for) Tj T* 0 Tw (future students!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 124.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Submitting Your Project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 106.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submission of your project will be handled via ) Tj /F3 10 Tf (Gradescope) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 100.0236 cm
+Q
+q
+1 0 0 1 57.02362 100.0236 cm
+Q
+q
+1 0 0 1 57.02362 88.02362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (1.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Create the submission file using the provided ) Tj /F4 10 Tf (make-submission) Tj /F1 10 Tf ( script:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 62.82362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 12.2 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 454.0283 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (prompt) Tj (>) Tj ( ./make-submission) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 62.69291 cm
+Q
+ 
+endstream
+endobj
+35 0 obj
+<<
+/Length 1750
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (2.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.952739 Tw 12 TL /F1 10 Tf 0 0 0 rg (This will create a ) Tj /F4 10 Tf (.zip) Tj /F1 10 Tf ( file named ) Tj /F4 10 Tf ($USER-submission) Tj /F1 10 Tf ( \(e.g., for me, this would be named) Tj T* 0 Tw /F4 10 Tf (lhenke-submission.zip) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 735.0236 cm
+Q
+q
+1 0 0 1 57.02362 723.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (3.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submit this ) Tj /F4 10 Tf (.zip) Tj /F1 10 Tf ( file to Gradescope. You will get a confirmation email if you did this correctly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 723.0236 cm
+Q
+q
+1 0 0 1 57.02362 711.0236 cm
+Q
+q
+1 0 0 1 57.02362 628.0236 cm
+q
+1 .972549 .862745 rg
+n 0 83 481.2283 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm 1.082397 Tw 12 TL /F1 10 Tf 0 0 0 rg (You are ) Tj /F3 10 Tf (REQUIRED) Tj /F1 10 Tf ( to use ) Tj /F4 10 Tf (make-submission) Tj /F1 10 Tf ( to form the ) Tj /F4 10 Tf (.zip) Tj /F1 10 Tf ( file. Failure to do so may cause) Tj T* 0 Tw (your program to not compile on Gradescope.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 481.2283 83 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 83 l S
+n 481.2283 0 m 481.2283 83 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 622.0236 cm
+Q
+ 
+endstream
+endobj
+36 0 obj
+<<
+/Nums [ 0 37 0 R 1 38 0 R 2 39 0 R 3 40 0 R 4 41 0 R ]
+>>
+endobj
+37 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+38 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+39 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+40 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+41 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+xref
+0 42
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000360 00000 n 
+0000000472 00000 n 
+0000000577 00000 n 
+0000000774 00000 n 
+0000000997 00000 n 
+0000001112 00000 n 
+0000001317 00000 n 
+0000001523 00000 n 
+0000001738 00000 n 
+0000001963 00000 n 
+0000002169 00000 n 
+0000002275 00000 n 
+0000002562 00000 n 
+0000002637 00000 n 
+0000002750 00000 n 
+0000002877 00000 n 
+0000003043 00000 n 
+0000003155 00000 n 
+0000003294 00000 n 
+0000003424 00000 n 
+0000003582 00000 n 
+0000003736 00000 n 
+0000003873 00000 n 
+0000004002 00000 n 
+0000004137 00000 n 
+0000004259 00000 n 
+0000004384 00000 n 
+0000004471 00000 n 
+0000009791 00000 n 
+0000018069 00000 n 
+0000027316 00000 n 
+0000035723 00000 n 
+0000037525 00000 n 
+0000037602 00000 n 
+0000037636 00000 n 
+0000037670 00000 n 
+0000037704 00000 n 
+0000037738 00000 n 
+trailer
+<<
+/ID 
+[<72415b39994290e314b54e8bfbd2d1aa><72415b39994290e314b54e8bfbd2d1aa>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 15 0 R
+/Root 14 0 R
+/Size 42
+>>
+startxref
+37772
+%%EOF
